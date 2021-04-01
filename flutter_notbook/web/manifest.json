@@ -1,6 +1,6 @@
 {
-    "name": "flutter_notebook",
-    "short_name": "flutter_notebook",
+    "name": "flutter_notbook",
+    "short_name": "flutter_notbook",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
